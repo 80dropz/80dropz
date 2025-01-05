@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://twitter.com/80dropz" target="blank"><img src="https://img.shields.io/twitter/follow/80dropz?logo=twitter&style=for-the-badge" alt="80dropz" /></a> </p>
 
-- Looking for someone to help **Rust Scripts**
+![Silly Cat]([https://example.com/mygif.gif](https://cdn.discordapp.com/attachments/1280292321543589924/1324561522558636206/caption.gif?ex=677be54c&is=677a93cc&hm=d26056aefe316843c5e868e970b0a40d76eb72955b3ecf73745393a2fd88a368&))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
