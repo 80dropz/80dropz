@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://twitter.com/80dropz" target="blank"><img src="https://img.shields.io/twitter/follow/80dropz?logo=twitter&style=for-the-badge" alt="80dropz" /></a> </p>
 
-![Silly Cat]([https://tenor.com/view/your-name-kimi-no-na-wa-shooting-star-meteor-taki-tachibana-gif-16334908])
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
